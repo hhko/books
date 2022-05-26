@@ -1,1 +1,2 @@
-# books
+# Books
+- [Practical EF Core](./PracticalEFCore)
